@@ -17,8 +17,8 @@ nav_order: 12
 The principle of the least privilege goes about the access control of the users. The user should have minimum access to the database base to do a specific job or use limited features.
 
 I set up a MySQL server in order to add new users to the database.  Figure 1 shows the dashboard of PhpMyAdmin. I added a new user in the database, this user could only insert new data and update data and read data.
-![No alt text provided for this
-image](../myMediaFolder/media/Capture55.png)
+
+![No alt text provided for this image](../myMediaFolder/media/Capture55.png)
 
 **figure 1**
 
@@ -26,8 +26,9 @@ image](../myMediaFolder/media/Capture55.png)
 <b></b>
 
 Figure 2 shows all the users of the database. User 1 has limited access to the database, and this user could access the database from any hot. The root of the database has no access limit, but the root could only access the database locally.
-![No alt text provided for this
-image](../myMediaFolder/media/Capture 66.png)
+
+
+![No alt text provided for this image](../myMediaFolder/media/Capture 66.png)
 **figure 2**
 <a name="dataencryptioninthedatabase"></a>
 ## 2 Data encryption in the database
@@ -51,15 +52,16 @@ I already implement AES algorithm by using Java language([Implement data encrypt
 ### 3.1 Backup
 
 Figure 3 shows that the step to make a backup for the database. The user could choose which tables must be exported and which format. It's a manual option. This solution isn't useful for the companies, it's a better option if this process will be automated by using special tools to make a local backup or even in the cloud.
-![No alt text provided for this
-image](../myMediaFolder/media/backup db.png)
+
+
+![No alt text provided for this image](../myMediaFolder/media/backup db.png)
 **figure 3**
 
 ### 3.2 Recovery
 
 Figure 4 shows how we could recover and import a file that contains the tables and the databases we backed up if we lost the data.
-![No alt text provided for this
-image](../myMediaFolder/media/Recovery.png)
+
+![No alt text provided for this image](../myMediaFolder/media/Recovery.png)
 **figure 4**
 # References
 

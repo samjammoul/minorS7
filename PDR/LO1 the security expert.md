@@ -49,10 +49,10 @@ The following table shows the non-technical learning activities that I did durin
 | Perform a security analysis for your IT/IoT/OT system, with a Privacy Impact Analysis, CIA requirements,                                             | <span style= 'background:#7CFC00; color:black'> **DONE** </span>  |    [Link](https://samjammoul.github.io/S7/Group-project-4/)                              |
 | System tested on security on the Red Team - Blue Team test event                                                                                     | <span style= 'background:#7CFC00; color:black'> **DONE** </span>|        [Link](https://samjammoul.github.io/S7/tasks10/)                             |
 | OWASP Report | <span style= 'background:#7CFC00; color:black'> **DONE** </span>|        [Link](http://localhost:4000/S7/Group-project-3/)                             |
-| Perform a threat analysis and work out one or more misuse cases (a.k.a. abuse cases) for the threats of your IT/IoT/OT system.                       | Not done yet |                                  |
+| Perform a threat analysis and work out one or more misuse cases (a.k.a. abuse cases) for the threats of your IT/IoT/OT system.                       |  <span style= 'background:#7CFC00; color:black'> **DONE** </span> |     [Link](https://samjammoul.github.io/S7/tasks2/)                                   |
 
 
 
 ## Reflection
+I did all the interesting tasks, so I enjoyed this minor a lot. The plan that I did for the semester is perfect and super productive. Most of the knowledge is built during working on the portfolio and I applied it in my group project. If I evaluate myself, so I will give myself a good + because I learned a lot about building security software, and also during this semester, I learned many subjects that are related to software engineering.
 
-## Conclusion

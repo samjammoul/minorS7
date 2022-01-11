@@ -22,7 +22,7 @@ title: CyberSecurity portfolio
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio! My name is Sam Jammoul. If you want to learn about the security world, click here and enjoy reading!
-baseurl: "/minorS7" # the subpath of your site, e.g. /blog
+baseurl: "/S7" # the subpath of your site, e.g. /blog
 url: "https://samjammoul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

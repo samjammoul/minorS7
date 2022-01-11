@@ -17,7 +17,7 @@ nav_order: 2
 This website will show all the tasks and activities that I will do
 during the minor. By every task, will be a theory explanation about the
 subject and a proof of concept that I did in order to practice that
-task.
+task. 
 
 The following link is the link to my board of tasks in Notion. I will
 use that board to manage all the tasks of this minor and to make a clear
